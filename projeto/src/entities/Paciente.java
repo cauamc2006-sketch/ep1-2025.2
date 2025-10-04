@@ -26,7 +26,5 @@ public class Paciente extends Pessoa{
         System.out.println("Internação (" + dataMotivo + ") adicionada para " + this.getNome());
     }
 
-    public void TemPlano(){
-        
-    }
+   
 }

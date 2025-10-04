@@ -9,6 +9,6 @@ public class Main {
         m1.InfoMedico();
         m1.adicionarHorarioAgenda("Segunda--18h00");
         m1.adicionarHorarioAgenda("Terça--20h00");
-        m1.adicionarHorarioAgenda("Quarta--13h00");
+        
     }
 }
