@@ -10,6 +10,8 @@ public class Medico extends Pessoa {
     private double CustoConsulta;
     private List<AgendamentoConsulta> Agenda;
     private int consultasRealizadas;
+     private static int contadorIds = 1; 
+    private int id;
     
     public Medico (String nome, String cpf, int idade, String CRM, String Especialidade, double CustoConsulta){
         super(nome, cpf, idade);
@@ -18,6 +20,7 @@ public class Medico extends Pessoa {
         this.CustoConsulta = CustoConsulta;
         this.Agenda = new ArrayList<>();
         this.consultasRealizadas = 0;
+        this.id = contadorIds++;
     }
     
     public void adicionarHorarioAgenda(AgendamentoConsulta NovaConsulta){
@@ -26,6 +29,9 @@ public class Medico extends Pessoa {
        
         
 
+    }
+    public int getId(){
+        return id;
     }
 
 

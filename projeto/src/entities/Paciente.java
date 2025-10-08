@@ -7,6 +7,8 @@ public class Paciente extends Pessoa{
     private List<AgendamentoConsulta> historicoconsultas;
     private List<Internacao> historicointernacoes;
     private boolean temPlanoDesaude;
+    private static int contadorIds = 1; 
+    private int id;
 
     
 
@@ -15,8 +17,13 @@ public class Paciente extends Pessoa{
         this.temPlanoDesaude = temPlanoDesaude;
         this.historicoconsultas = new ArrayList<>();
         this.historicointernacoes = new ArrayList<>();
+        this.id = contadorIds++;
 
 
+    }
+
+    public int getId(){
+        return id;
     }
 
 
