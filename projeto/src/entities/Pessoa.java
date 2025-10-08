@@ -25,9 +25,5 @@ public class Pessoa {
     }
 
    
-    public void exibirInformacoes() {
-        System.out.println("Nome: " + nome);
-        System.out.println("CPF: " + cpf);
-        System.out.println("Idade: " + idade + " anos");
-    }
+    
 }
