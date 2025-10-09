@@ -65,7 +65,7 @@ public class Main {
                     break;
                 case "4":
                     System.out.println("Saindo do sistema...");
-                    return; // Sai do método main e encerra o programa
+                    return; 
             
                 default:
                     System.out.println("Opção inválida.");
@@ -74,7 +74,7 @@ public class Main {
 
         }
             
-    } // <<-- FECHA O MÉTODO main
+    } 
         
     
     private static void PacienteMenu(Hospital hospital){
@@ -82,7 +82,7 @@ public class Main {
             System.out.println("\n-- PACIENTES --");
             System.out.println("1 - Cadastrar paciente");
             System.out.println("2 - Listar pacientes");
-            System.out.println("3 - Detalhar pacientes(precisa implementar no Hospital se quiser)");
+            System.out.println("3 - Detalhar pacientes");
             System.out.println("0 - Voltar");
             System.out.print("Opção: ");    
             String opt = sc.nextLine().trim();
@@ -100,14 +100,14 @@ public class Main {
                 
                     break;
                 case "0":
-                    return; // Volta para o menu principal
+                    return; 
             
                 default:
-                    // ...
+                    
                     break;
             }
         }
-    } // <<-- FECHA O MÉTODO PacienteMenu
+    } 
     
     private static void RegistrarPaciente(Hospital hospital){
          System.out.println("\n-- Cadastrar paciente --");
@@ -150,7 +150,7 @@ public class Main {
                     break;
             }
         }
-    } // <<-- FECHA O MÉTODO MedicoMenu
+    } 
     
     private static void RegistrarMedico(Hospital hospital){
         System.out.println("\n-- Cadastrar médico --");
@@ -217,7 +217,7 @@ public class Main {
 
     private static void  AgendarConsulta(Hospital hospital) {
         System.out.println("\n-- Agendar consulta --");
-        System.out.println("Lista de pacientes (chame a função de listagem se existir):");
+        System.out.println("Lista de pacientes:");
         try { hospital.getPacientesCadastrados(); } catch (Throwable t) {}
 
         System.out.print("Digite o nome (ou ID) do paciente: ");
@@ -288,4 +288,4 @@ public class Main {
 
 
     
-} // <<-- FECHA A CLASSE Main
+} 

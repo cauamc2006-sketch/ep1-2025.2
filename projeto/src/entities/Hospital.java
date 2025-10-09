@@ -55,52 +55,52 @@ public class Hospital {
     }
 
     public Paciente findPacienteByIdentifier(String identificador) {
-    // 1️⃣ Tenta converter o texto digitado em número
+    
     try {
-        int idBuscado = Integer.parseInt(identificador); // se o texto for "3", vira número 3
+        int idBuscado = Integer.parseInt(identificador); 
 
-        // 2️⃣ Procura paciente com esse ID
+       
         for (Paciente p : pacientes) {
-            if (p.getId() == idBuscado) { // compara o ID do paciente
-                return p; // achou o paciente, retorna ele
+            if (p.getId() == idBuscado) { 
+                return p; 
             }
         }
     } catch (NumberFormatException e) {
-        // 3️⃣ Se não for número (por exemplo, o texto for "Maria"), ele vem parar aqui
+        
     }
 
-    // 4️⃣ Se chegou aqui, tenta procurar pelo nome (ignora maiúsculas/minúsculas)
+    
     for (Paciente p : pacientes) {
         if (p.getNome().equalsIgnoreCase(identificador)) {
-            return p; // achou o paciente pelo nome
+            return p; 
         }
     }
 
-    // 5️⃣ Se não encontrou de jeito nenhum
+    
     return null;
 }
 
 public Medico findMedicoByIdentifier(String identificador) {
-    // 1️⃣ Tenta converter o texto em número (ID)
+    
     try {
         int idBuscado = Integer.parseInt(identificador);
         for (Medico m : medicos) {
             if (m.getId() == idBuscado) {
-                return m; // Achou pelo ID
+                return m; 
             }
         }
     } catch (NumberFormatException e) {
-        // 2️⃣ Se não for número, ignora e busca por nome
+        
     }
 
-    // 3️⃣ Busca pelo nome (sem diferenciar maiúsculas/minúsculas)
+   
     for (Medico m : medicos) {
         if (m.getNome().equalsIgnoreCase(identificador)) {
-            return m; // Achou pelo nome
+            return m; 
         }
     }
 
-    // 4️⃣ Se não achou de jeito nenhum
+    
     return null;
 }
 
