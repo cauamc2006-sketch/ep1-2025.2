@@ -29,7 +29,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
    A principal pasta é a projeto/src/entities que possui todos os arquivos do projeto.
 
 3. **Versão do JAVA utilizada:**  
-   java 24.0.2
+   java 24.02
 
 ---
 
@@ -42,7 +42,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   (image.png)
+   ![Inserir Print 1](caminho/do/print1.png)
 
 2. Cadastro de Médico:  
    ![Inserir Print 2](caminho/do/print2.png)
