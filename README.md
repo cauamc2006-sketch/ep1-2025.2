@@ -28,7 +28,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
    baixar o arquivo main no repositório do gitHub, abrir no VS code, dentro de src\entities buscar o arquivo Main e rodar pelo botão run da IDE
 
 3. **Estrutura de Pastas:**  
-   A principal pasta é a projeto/src/entities que possui todos os arquivos do projeto.
+   A principal pasta é a projeto\src\entities que possui todos os arquivos do projeto.
 
 3. **Versão do JAVA utilizada:**  
    java 24.0.2
@@ -58,7 +58,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- Achei que o projeto foi bem desafiador principalmente por ter vindo de APC e já ter que fazer um trabalho desse, uma das minhas principais dificuldades foi a modelagem das entidades e o tempo que eu achei curto mas por mais que meu código não tenha ficado nem um pouco do jeito que eu acredito que aprendi muito fazendo esse trabalho.
+- Achei que o projeto foi bem desafiador principalmente por ter vindo de apc, uma das minhas principais dificuldades foi a modelagem das entidades e o tempo que eu achei curto mas por mais que meu código não tenha ficado nem um pouco do jeito que eu queria acredito que aprendi muito fazendo esse trabalho.
 
 ---
 
