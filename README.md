@@ -42,10 +42,10 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![![alt text](<Captura de tela 2025-10-08 221248.png>)]()
+   
 
 2. Cadastro de Médico:  
-   ![Inserir Print 2](caminho/do/print2.png)
+   ![Inserir Print 2](Captura de tela 2025-10-08 224610.png)
 
 3. Relatório de ?:  
    ![Inserir Print 3](caminho/do/print3.png)
@@ -62,7 +62,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- cauamc2006@gmail.com
 
 ---
 
