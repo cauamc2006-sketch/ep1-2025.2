@@ -20,16 +20,18 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   projeto compilado usando o compilador interno do VS code.
+
+
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   baixar o arquivo main no repositório do gitHub, abrir no VS code, dentro de src\entities buscar o arquivo Main e rodar pelo botão run da IDE
 
 3. **Estrutura de Pastas:**  
    A principal pasta é a projeto/src/entities que possui todos os arquivos do projeto.
 
 3. **Versão do JAVA utilizada:**  
-   java 24.02
+   java 24.0.2
 
 ---
 
@@ -42,7 +44,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   
+   Não conseguir inserir os prints aqui nesse espaço então deixei todos eles na pasta do trabalho.
 
 2. Cadastro de Médico:  
    ![Inserir Print 2](Captura de tela 2025-10-08 224610.png)
@@ -56,7 +58,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- Achei que o projeto foi bem desafiador principalmente por ter vindo de APC e já ter que fazer um trabalho desse, uma das minhas principais dificuldades foi a modelagem das entidades e o tempo que eu achei curto mas por mais que meu código não tenha ficado nem um pouco do jeito que eu acredito que aprendi muito fazendo esse trabalho.
 
 ---
 

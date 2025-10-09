@@ -2,6 +2,7 @@ package entities;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Hospital {
     private List<Paciente> pacientes;
     private List<Medico> medicos;
