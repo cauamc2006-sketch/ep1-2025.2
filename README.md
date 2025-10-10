@@ -48,7 +48,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 
 3. Cadastro de Médico:  
-   https://github.com/cauamc2006-sketch/ep1-2025.2/blob/main/print%20medico.png
+  <img width="262" height="121" alt="image" src="" />
 
 4. Relatório de ?:  
    ![Inserir Print 3](caminho/do/print3.png)
