@@ -43,13 +43,14 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Prints da Execução
 
-1. Menu Principal:  
-   Não conseguir inserir os prints aqui nesse espaço então deixei todos eles na pasta do trabalho.
+1. Menu Principal:
+2. <img width="262" height="121" alt="image" src="https://github.com/user-attachments/assets/76275cc5-2e1d-4f53-babf-3eb9e2b5a7ea" />
 
-2. Cadastro de Médico:  
+
+3. Cadastro de Médico:  
    ![Inserir Print 2](Captura de tela 2025-10-08 224610.png)
 
-3. Relatório de ?:  
+4. Relatório de ?:  
    ![Inserir Print 3](caminho/do/print3.png)
 
 ---
