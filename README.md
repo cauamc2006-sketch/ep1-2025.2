@@ -44,14 +44,14 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:
-2. <img width="262" height="121" alt="image" src="https://github.com/user-attachments/assets/76275cc5-2e1d-4f53-babf-3eb9e2b5a7ea" />
+ <img width="262" height="121" alt="image" src="https://github.com/user-attachments/assets/76275cc5-2e1d-4f53-babf-3eb9e2b5a7ea" />
 
 
-3. Cadastro de Médico:  
-  <img width="262" height="121" alt="image" src="" />
+2. Cadastro de Médico:  
+  <img width="300" height="400" alt="image" src="https://github.com/cauamc2006-sketch/ep1-2025.2/blob/main/Captura%20de%20tela%202025-10-10%20210416.png" />
 
-4. Relatório de ?:  
-   ![Inserir Print 3](caminho/do/print3.png)
+3. Agendamento da consulta:  
+   <img width="262" height="121" alt="image" src="" />
 
 ---
 
