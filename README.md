@@ -59,7 +59,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- Achei que o projeto foi bem desafiador principalmente por ter vindo de apc, uma das minhas principais dificuldades foi a modelagem das entidades e o tempo que eu achei curto mas por mais que meu código não tenha ficado nem um pouco do jeito que eu queria acredito que aprendi muito fazendo esse trabalho.
+- Achei que o projeto foi bem desafiador principalmente por ter vindo de apc, uma das minhas principais dificuldades foi a modelagem das entidades e o tempo que eu achei curto mas por mais que meu código não tenha ficado do jeito que eu queria acredito que aprendi muito fazendo esse trabalho.
 
 ---
 
