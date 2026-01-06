@@ -28,7 +28,8 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
    baixar o arquivo main no repositório do gitHub, abrir no VS code, dentro de src\entities buscar o arquivo Main e rodar pelo botão run da IDE
 
 3. **Estrutura de Pastas:**  
-   A principal pasta é a projeto\src\entities que possui todos os arquivos do projeto.
+   <img width="265" height="223" alt="Captura de tela 2026-01-05 224251" src="https://github.com/user-attachments/assets/44db0202-b235-4ed5-9921-904a8fba33d6" />
+
 
 3. **Versão do JAVA utilizada:**  
    java 24.0.2
