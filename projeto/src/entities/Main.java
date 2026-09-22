@@ -44,10 +44,9 @@ public class Main {
        
 
         Hospital hospital = new Hospital();
-        
-       
 
-        
+
+
 
         while (true){
                 

@@ -12,6 +12,7 @@ public class Hospital {
         this.pacientes = new ArrayList<>();
         this.medicos = new ArrayList<>();
         this.consultas = new ArrayList<>();
+
     }
 
     public void CadastrarPaciente(Paciente paciente){
