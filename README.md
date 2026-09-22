@@ -21,8 +21,8 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 1. **Compilação:**
    ```
-      javac Main.java
-      java Main
+   javac Main.java
+   java Main
    ```
 2. **Execução:**  
    ```bash
