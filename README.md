@@ -20,13 +20,17 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   projeto compilado usando o compilador interno do VS code.
-
-
-
+    
+   ```bash
+   javac Main.java
+   java Main     
+   ```
 2. **Execução:**  
-   baixar o arquivo main no repositório do gitHub, abrir no VS code, dentro de src\entities buscar o arquivo Main e rodar pelo botão run da IDE
-
+   ```bash
+   cd ep1-2025.2/projeto/src/entities/
+   javac Main.java
+   java Main
+   ```
 3. **Estrutura de Pastas:**  
    <img width="265" height="223" alt="Captura de tela 2026-01-05 224251" src="https://github.com/user-attachments/assets/44db0202-b235-4ed5-9921-904a8fba33d6" />
 
